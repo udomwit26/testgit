@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("new line2")
 	fmt.Println("new line3")
 	fmt.Println("new line4")
+	fmt.Println("new line5")
 }
