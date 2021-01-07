@@ -7,5 +7,5 @@ func main() {
 	fmt.Println("main1")
 	fmt.Println("xxxx")
 	fmt.Println("main2")
-	bug2
+	bug2 v2
 }
