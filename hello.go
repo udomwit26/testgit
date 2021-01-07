@@ -7,6 +7,6 @@ func main() {
 	fmt.Println("main1")
 	fmt.Println("xxxx")
 	fmt.Println("main2")
-	master
+	bug4 reset 
 	bug5nnn
 }
