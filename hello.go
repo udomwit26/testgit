@@ -8,5 +8,5 @@ func main() {
 	fmt.Println("xxxx")
 	fmt.Println("main2")
 	master
-	bug5yyyy
+	bug5xxx
 }
