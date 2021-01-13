@@ -8,5 +8,4 @@ func main() {
 	fmt.Println("xxxx")
 	fmt.Println("main2")
 	bug3 reset 
-	print('3')
 }
